@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "127112059926",
+    "project_id": "reserved-8b23d",
+    "storage_bucket": "reserved-8b23d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127112059926:android:5dc0125a82b31c9688a937",
+        "android_client_info": {
+          "package_name": "kz.marvelaman.btime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127112059926-8fgeq5dkb8588t4efitudl4qegsfh3ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRQKw9RA64FE_CSFB7zPreLQyGtA5tMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127112059926-8fgeq5dkb8588t4efitudl4qegsfh3ec.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127112059926-pk7224o6rr52ooenl2mju8ec3nmjro8c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kz.marvelaman.reserved"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
